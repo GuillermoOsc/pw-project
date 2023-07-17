@@ -54,3 +54,6 @@ test.describe('SauceDemo Tests', () => {
     expect(confirmationMessage).toBe('Thank you for your order!');
   });
 });
+
+
+// --
